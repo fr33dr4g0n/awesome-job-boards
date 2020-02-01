@@ -32,8 +32,7 @@ A curated list of awesome niche job boards.
 * [Support Driven Jobs](http://jobs.supportdriven.com/)
 
 ## Design
-
-* [WorkFromHomeJobs] (https://workfromhomejobs.me/remote-design-jobs/)
+* [WorkFromHomeJobs](https://workfromhomejobs.me/remote-design-jobs/) - "Remote design jobs aggregated from other job boards"
 * [AIGA](https://designjobs.aiga.org/)
 * [Authentic Jobs](https://www.authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
 * [Behance](https://www.behance.net/joblist)
